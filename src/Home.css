@@ -1,6 +1,4 @@
-nes (4 sloc)  58 Bytes
-
 .home__section {
-    display: flex;
-    padding: 30px;
-  }
+  display: flex;
+  padding: 30px;
+}
